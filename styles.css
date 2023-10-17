@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ваш Лендінг</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav class="menu">
+        <ul>
+            <li><a href="#">Про нас</a></li>
+            <li><a href="#">Навчання і блог</a></li>
+            <li><a href="#">Токенміка</a></li>
+            <li><a href="#">Проєкти та дорожня карта</a></li>
+            <li><a href="#">Контакти</a></li>
+            <li><a href="#">Вибір мови: українська / англійська</a></li>
+        </ul>
+    </nav>
+
+    <div class="menu-hover-effect">
+        При наведенні мишки на пункт меню, з'явиться бігуча риска.
+    </div>
+</body>
+
+</html>
